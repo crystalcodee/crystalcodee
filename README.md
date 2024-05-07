@@ -3,7 +3,7 @@
 <h1 align="center"> Hey there! 👋🏼 I'm Thabasum Shaikh </h1>
 <h2 align="center"> Passionate about creating data-driven decisions </h2>
 
-<img align="right" alt="coding" width="400" src="data_analytics.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/crystalcodee/Thabasum_Shaikh/blob/main/data_analytics.gif">
 
 - 💡 "You can have Data without information, but you cannot have information without Data."
 
